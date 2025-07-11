@@ -30,7 +30,7 @@ body {
             font-size: 16px;
         }
         button {
-            background-color: #00FF00;
+            background-color: #6f00ff;
             color: white;
             padding: 10px 15px;
             border: none;
@@ -48,7 +48,7 @@ body {
         }
         .results span {
             font-weight: bold;
-            color: #0056b3;
+            color: #0376f1;
         }
         hr {
             border: 0;
